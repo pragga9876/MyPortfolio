@@ -1,1 +1,1 @@
-- [Link](https://praggamukherjee.vercel.app/)
+https://praggamukherjee.vercel.app/
